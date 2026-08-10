@@ -20,3 +20,6 @@ Press Q to stop the live video and exit the program.
 Python
 OpenCV
 NumPy
+
+# Author
+Ayush Gupta
